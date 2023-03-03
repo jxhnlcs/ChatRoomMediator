@@ -19,16 +19,29 @@
   [Jefté's chat session] room: Brenno joins the chat
   
   [Jefté's chat session] room: Bárbara joins the chat
+  
   [Brenno's chat session] room: Bárbara joins the chat  
+  
   [Brenno's chat session] Jefté: Hi room!
+  
   [Bárbara's chat session] Jefté: Hi room!
+  
   [Jefté's chat session] Brenno: Oh, hey Jefté, how are you?  
+  
   [Bárbara's chat session] Brenno: Oh, hey Jefté, how are you?
+  
   [Jefté's chat session] Brenno: Great.
+  
   [Bárbara's chat session] Brenno: Great.
+  
   [Jefté's chat session] Bárbara: Hi guys.
+  
   [Brenno's chat session] Bárbara: Hi guys.
+  
   [Jefté's chat session] room: Sabrina joins the chat
+  
   [Brenno's chat session] room: Sabrina joins the chat  
+  
   [Bárbara's chat session] room: Sabrina joins the chat  
+  
   [Jefté's chat session] Sabrina: Meow ;P
