@@ -1,3 +1,5 @@
+# Mediator Design Patern
+
 - Este é um exemplo clássico usando o Mediator Pattern, nesse exercício vamos simular uma sala de bate papo.
 - A classe ChatRoom tem que a responsabilidade de funcionar como nosso Mediator.
 - O método person.receive() é responsável por registrar as mensagens.
