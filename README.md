@@ -17,6 +17,7 @@
 
 - A saída deve fica da seguinte forma:
   [Jefté's chat session] room: Brenno joins the chat
+  
   [Jefté's chat session] room: Bárbara joins the chat
   [Brenno's chat session] room: Bárbara joins the chat  
   [Brenno's chat session] Jefté: Hi room!
